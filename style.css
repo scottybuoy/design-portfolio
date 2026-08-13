@@ -75,6 +75,11 @@ body {
     margin: 50px 0px;
 }
 
+#logos-small {
+    height: 400px;
+    width:auto;
+}
+
 #disclaimer {
     color: grey;
     font-style: italic;
